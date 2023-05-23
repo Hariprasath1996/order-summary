@@ -1,0 +1,25 @@
+
+html{
+  font-size: 15px;
+}
+body{
+width: 1200px;
+height: 80px;
+display: flex;
+flex-direction: column;
+justify-content:center;
+align-items: center;
+padding:5rem ;
+gap:2rem;
+}
+
+.container{
+  width: 280px;
+  height:50px;
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+  padding:5rem ;
+  gap:2rem;
+}
